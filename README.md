@@ -1,4 +1,5 @@
 # Ejercicio de Modelado Arquitectónico: C4 Model para Control de Dailies en MS Teams
+**Link draw.io:** [Ver diagrama]([https://app.diagrams.net/#Gxxxxxxxx](https://wgcp-my.sharepoint.com/:u:/g/personal/alejandro_montoya_blend360_com/IQC940OidhfdT5s312hM5ecYAUzxnvgvCmLT6LEI_Au7Hzk?e=fXx43v))
 
 ## Introducción
 
